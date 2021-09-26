@@ -1,6 +1,6 @@
 # Satellite-Orbit-Prediction
 Try to predict satellite orbit parameters in the future using the past TLE data and using ML, NN and fitting techniques.
-See the results and the code in the [notebook](https://github.com/YasinSonmez/Satellite-Orbit-Prediction/blob/main/SGP4.ipynb)
+See the results and the code in the [notebook](https://github.com/YasinSonmez/Satellite-Orbit-Prediction/blob/main/SGP4.ipynb) and see the [internship report](https://github.com/YasinSonmez/Satellite-Orbit-Prediction/blob/main/UZAY%20Internship%20Report.pdf)
 
 Here is what we achieved in this project:
 - Using SGP4 to predict future coordinates of the satellite
